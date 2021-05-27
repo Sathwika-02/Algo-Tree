@@ -35,4 +35,6 @@
 <hr>
 
 ## Questions :
+- Pronic Number ---> [Python](/Code/Python/Pronicnumbers.py)
+
 
